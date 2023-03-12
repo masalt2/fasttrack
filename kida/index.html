@@ -2,22 +2,48 @@
 <title>FASTTRACK - Kid A</title>
 </head>
 <body bgcolor="black" text="#ffffff">
-  <div style="padding-top: 100px;"></div>
-  <p class="center" style="text-align: center; background-color:rgba(0, 0, 0, 0.5); padding-top: 30px; padding-bottom: 30px; font-size: 50px;">Kid A</p>
+<div style="padding-top: 100px;"></div>
+<p class="center" style="text-align: center; background-color:rgba(0, 0, 0, 0.5); padding-top: 30px; padding-bottom: 30px; font-size: 50px;">Kid A</p>
+
+<div class="flex-container">
+<button onClick="window.location.reload();">Everything in its Right Place</button>
+<button onClick="window.location.reload();">Kid A</button>
+<button onClick="window.location.reload();">The National Anthem</button>
+<button onClick="window.location.reload();">How to Disappear Completely</button>
+<button onClick="window.location.reload();">Treefingers</button>
+<button onClick="window.location.reload();">Optimistic</button>
+<button onClick="window.location.reload();">In Limbo</button>
+<button onClick="window.location.reload();">Idioteque</button>
+<button onClick="window.location.reload();">Morning Bell</button>
+<button onClick="window.location.reload();">Motion Picture Soundtrack</button>
+<button onClick="window.location.reload();">Untitled</button>
+</div>
+
 </body>
 <style>
-body {
-  background-image: url("kidabg.png");
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 .center {
+  max-width: 500px;
   margin: auto;
 }
 img {
-  max-width: 100%;
+  max-width:100%;
   mex-height: 100%
+}
+.flex-container {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 500px;
+}
+
+.flex-container > button {
+  box-sizing: border-box;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  border: 3px solid black;
 }
 </style>
