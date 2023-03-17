@@ -1,0 +1,97 @@
+<head>
+<title>FASTTRACK - Desert Island Disk</title>
+<link rel="icon" type="image/png" href="../ftfavicon.png"/>
+</head>
+<body bgcolor="black" text="#ffffff">
+<div style="padding-top: 100px;"></div>
+<p class="center" style="text-align: center; background-color:rgba(0, 0, 0, 0.5); padding-top: 30px; padding-bottom: 30px; font-size: 50px;">Desert Island Disk</p>
+
+<p style="padding:15px; background-color:rgba(0, 0, 0, 0.5);">
+Desert Island Disk is the fourth track on A Moon Shaped Pool, Radiohead's ninth studio album. It is written in 7/8.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0eLVt8CGVdNnyMcfP38kDi?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<div style="padding:15px; background-color:rgba(0, 0, 0, 0.5);">
+The lyrics go:
+<pre>
+now as I go upon my way
+so let me go
+upon my way
+born of a light
+born of a light
+
+the wind rushing round my open heart
+an open ravine
+in my spirit light
+totally alive
+in my spirit light
+
+through an open doorway
+across a street
+to another life
+and catching my reflection
+in a window
+switching on a light
+one I didn't know
+totally alive
+totally released
+
+waking
+waking up from shutdown
+from a thousand years of sleep
+
+yeah you
+you know what I mean
+you know what I mean
+you know what I mean
+
+standing on the edge of you
+you know what I mean
+you know what I mean
+you know what I mean
+
+different types of love
+different types of love
+different types of love
+are possible
+are possible
+are possible
+are possible
+</pre></div>
+
+</body>
+<style>
+body {
+  background-image: url("amspbg.png");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.center {
+  margin: auto;
+}
+img {
+  max-width:100%;
+  mex-height: 100%
+}
+.flex-container {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 500px;
+}
+
+.flex-container > button {
+  box-sizing: border-box;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  background-color: #cfcfcf;
+  border: 3px solid black;
+}
+</style>
